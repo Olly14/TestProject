@@ -1,0 +1,12 @@
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\bin\Debug\netcoreapp3.1\Web.Api.Data.deps.json
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\bin\Debug\netcoreapp3.1\Web.Api.Data.dll
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\bin\Debug\netcoreapp3.1\Web.Api.Data.pdb
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\bin\Debug\netcoreapp3.1\Web.Api.Domain.dll
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\bin\Debug\netcoreapp3.1\Web.Api.Domain.pdb
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\obj\Debug\netcoreapp3.1\Web.Api.Data.csprojAssemblyReference.cache
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\obj\Debug\netcoreapp3.1\Web.Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\obj\Debug\netcoreapp3.1\Web.Api.Data.AssemblyInfoInputs.cache
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\obj\Debug\netcoreapp3.1\Web.Api.Data.AssemblyInfo.cs
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\obj\Debug\netcoreapp3.1\Web.Api.Data.csproj.CopyComplete
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\obj\Debug\netcoreapp3.1\Web.Api.Data.dll
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Data\obj\Debug\netcoreapp3.1\Web.Api.Data.pdb

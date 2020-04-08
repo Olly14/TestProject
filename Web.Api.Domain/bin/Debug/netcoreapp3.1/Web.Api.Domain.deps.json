@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Web.Api.Domain/1.0.0": {
+        "runtime": {
+          "Web.Api.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Web.Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

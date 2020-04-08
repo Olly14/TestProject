@@ -1,0 +1,17 @@
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\bin\Debug\netcoreapp2.1\Web.Api.deps.json
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\bin\Debug\netcoreapp2.1\Web.Api.runtimeconfig.json
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\bin\Debug\netcoreapp2.1\Web.Api.runtimeconfig.dev.json
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\bin\Debug\netcoreapp2.1\Web.Api.dll
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\bin\Debug\netcoreapp2.1\Web.Api.pdb
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\obj\Debug\netcoreapp2.1\Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\obj\Debug\netcoreapp2.1\Web.Api.RazorAssemblyInfo.cache
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\obj\Debug\netcoreapp2.1\Web.Api.RazorAssemblyInfo.cs
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\obj\Debug\netcoreapp2.1\Web.Api.AssemblyInfoInputs.cache
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\obj\Debug\netcoreapp2.1\Web.Api.AssemblyInfo.cs
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\obj\Debug\netcoreapp2.1\Web.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\obj\Debug\netcoreapp2.1\Web.Api.dll
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\obj\Debug\netcoreapp2.1\Web.Api.pdb
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api\obj\Debug\netcoreapp2.1\Web.Api.genruntimeconfig.cache

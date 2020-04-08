@@ -1,0 +1,8 @@
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Domain\bin\Debug\netcoreapp3.1\Web.Api.Domain.deps.json
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Domain\bin\Debug\netcoreapp3.1\Web.Api.Domain.dll
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Domain\bin\Debug\netcoreapp3.1\Web.Api.Domain.pdb
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Domain\obj\Debug\netcoreapp3.1\Web.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Domain\obj\Debug\netcoreapp3.1\Web.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Domain\obj\Debug\netcoreapp3.1\Web.Api.Domain.AssemblyInfo.cs
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Domain\obj\Debug\netcoreapp3.1\Web.Api.Domain.dll
+C:\Users\Olayinka.Ayoola\source\repos\TestWebApiProject\Web.Api.Domain\obj\Debug\netcoreapp3.1\Web.Api.Domain.pdb
